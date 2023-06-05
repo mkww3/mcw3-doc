@@ -48,8 +48,8 @@ Moving forward, our main objective is to integrate our solution with existing pu
 Additionally, we are committed to building a strong community and raising awareness about public goods and regenerative finance to promote sustainable development initiatives.
 
 ## Try it Out
-- GitHub Repository: [GitHub Repo]([https://github.com/your-repo-link](https://github.com/mkww3/))
-- Figma Design: [Figma Design]([https://your-figma-link](https://www.figma.com/file/WL6qia6QFLaudZaX0SbeMq/MakeChang3?type=design&node-id=0-1))
+- GitHub Repository:https://github.com/your-repo-link](https://github.com/mkww3/
+- Figma Design: https://www.figma.com/file/WL6qia6QFLaudZaX0SbeMq/MakeChang3?type=design&node-id=0-1
 - Crowdfunding Factory: 0xDE1b88a55E8A062c6DecA5D1f910C04315962328
 - Example Crowdfunding Addresses:
   - 0x25bE87FCC7aD0DaE1CBB38558e5b20C88447cB10
