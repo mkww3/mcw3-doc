@@ -1,7 +1,7 @@
 # MCW3 - Make Change With Web3
 
 ## Introduction
-MCW3 is a project inspired by the lectures on public goods at ETH Porto, with the aim of bridging the gap between on-chain initiatives and non-crypto users. The project's objective is to create a platform that aggregates public goods projects and allows verified initiatives to receive support without the need for crypto-specific solutions. By providing an intuitive user interface, MCW3 preserves the benefits of on-chain technology while making it accessible to a broader audience.
+MCW3's aim is to bridge the gap between on-chain initiatives and non-crypto users. The project's objective is to create a platform that aggregates public goods projects and allows verified initiatives to receive support without the need for crypto-specific solutions. By providing an intuitive user interface, MCW3 preserves the benefits of on-chain technology while making it accessible to a broader audience.
 
 ## Features
 - Aggregates public goods projects for easy access and support.
@@ -20,7 +20,7 @@ The MCW3 project was built using the following technologies:
 - **Smart Contract**: Mantle chain, Solidity
 
 ## Installation
-To run the MAKE CHANG3 project locally, follow these steps:
+To run the MCW3 project locally, follow these steps:
 
 1. Clone the GitHub repository: [GitHub Repo] (https://github.com/mkww3/mcw3-ui)
 2. Install the necessary dependencies for the frontend and backend.
@@ -48,7 +48,7 @@ Moving forward, our main objective is to integrate our solution with existing pu
 Additionally, we are committed to building a strong community and raising awareness about public goods and regenerative finance to promote sustainable development initiatives.
 
 ## Try it Out
-- GitHub Repository:https://github.com/your-repo-link](https://github.com/mkww3/
+- GitHub Repository: https://github.com/mkww3/
 - Figma Design: https://www.figma.com/file/WL6qia6QFLaudZaX0SbeMq/MakeChang3?type=design&node-id=0-1
 - Crowdfunding Factory: 0xDE1b88a55E8A062c6DecA5D1f910C04315962328
 - Example Crowdfunding Addresses:
